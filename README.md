@@ -16,7 +16,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 | URL                           | Status | History                                                                         | Response Time                                                             | Uptime                                                                                                                                                                                                     |
 | ----------------------------- | ------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Blog](https://mozillazg.com) | 🟩 Up  | [blog.yml](https://github.com/mozillazg/uptime/commits/master/history/blog.yml) | <img alt="Response time graph" src="./graphs/blog.png" height="20"> 394ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmozillazg%2Fuptime%2Fmaster%2Fapi%2Fblog%2Fuptime.json)](https://mozillazg.github.io/uptime/history/blog) |
+| [Blog](https://mozillazg.com) | 🟩 Up  | [blog.yml](https://github.com/mozillazg/uptime/commits/master/history/blog.yml) | <img alt="Response time graph" src="./graphs/blog.png" height="20"> 399ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmozillazg%2Fuptime%2Fmaster%2Fapi%2Fblog%2Fuptime.json)](https://mozillazg.github.io/uptime/history/blog) |
 
 <!--end: status pages-->
 
