@@ -2,6 +2,7 @@
   {
     "name": "Blog",
     "url": "https://mozillazg.com",
+    "icon": "https://favicons.githubusercontent.com/mozillazg.com",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 334,
-    "timeWeek": 297,
-    "timeMonth": 357,
-    "timeYear": 357
+    "time": 347,
+    "timeDay": 189,
+    "timeWeek": 299,
+    "timeMonth": 347,
+    "timeYear": 347,
+    "dailyMinutesDown": {}
   }
 ]
