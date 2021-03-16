@@ -4,17 +4,17 @@
     "url": "https://mozillazg.com",
     "icon": "https://favicons.githubusercontent.com/mozillazg.com",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 501,
-    "timeWeek": 373,
-    "timeMonth": 374,
-    "timeYear": 405,
+    "time": 403,
+    "timeDay": 332,
+    "timeWeek": 346,
+    "timeMonth": 367,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   }
 ]
